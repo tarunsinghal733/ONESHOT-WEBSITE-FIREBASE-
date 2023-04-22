@@ -224,7 +224,7 @@ img {
 #Home {
     min-height: 900px;
     height: 100%;
-    background: rgba(0, 0, 0, 0) url(/img/bg.png) no-repeat scroll left center;
+    background: rgba(0, 0, 0, 0) url(bg.png) no-repeat scroll left center;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -398,7 +398,7 @@ img {
 
 .single-promo-1 span {
     font-size: 30px;
-    background-image: url(/img/promo-icon-bg.png);
+    background-image: url(promo-icon-bg.png);
     padding: 54px 0 57px 0;
     display: block;
     background-repeat: no-repeat;
@@ -419,7 +419,7 @@ img {
     text-align: left;
     margin-top: 0;
     padding-top: 100px;
-    background: url(/img/feature-bg.png) no-repeat center;
+    background: url(feature-bg.png) no-repeat center;
     background-size: cover;
 }
 
